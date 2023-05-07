@@ -28,8 +28,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-### 关于我
+### 关于我 | About
 - [技术笔记](https://aniurm.zeabur.app/)
 
 [![Aniurm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANIURM&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANIURM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANIURM)](https://github.com/anuraghazra/github-readme-stats)

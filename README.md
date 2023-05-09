@@ -6,9 +6,10 @@
 
 - 🌱 A Electronic Science and Technology Undergraduate Student in Zhejiang University.
 - 🤩 A Computer Science enthusiast.
+- 🏀 A basketball amateur.
 - 📖 Reading: 平凡的世界、三体、我与地坛、毛泽东选集.
-- 📺 Watching: Breaking Bad, Better Call Saul, Game of Thrones, Rick and Morty.
-- 🏀 Basketball amateur.
+- 📺 Watching: Better Call Saul, Game of Thrones, Rick and Morty.
+
 
 ### 🛠 技术栈 | Tech Stack
 

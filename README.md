@@ -8,7 +8,7 @@
 - 🤩 A Computer Science enthusiast.
 - 🏀 A basketball amateur.
 - 📖 Reading: 平凡的世界、三体、我与地坛、毛泽东选集.
-- 📺 Watching: Better Call Saul, Game of Thrones, Rick and Morty.
+- 📺 Watching: Breakding Bad,Better Call Saul, Game of Thrones, Rick and Morty, Black Mirror.
 
 
 ### 🛠 技术栈 | Tech Stack
